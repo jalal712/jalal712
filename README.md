@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Jalal! 👋  
 
-<!--
-**jalal712/jalal712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a **Computer Science student** in my 6th semester, passionate about **AI, Web Development, and DSA**. My goal is to **go abroad** for further studies and achieve a **7-figure salary** in tech.  
 
-Here are some ideas to get you started:
+### 🚀 About Me  
+- 🎓 **BSCS Student** (Current CGPA: **3.4**, aiming for **3.5-3.8**)  
+- 🌍 Exploring **Germany, Portugal, Lithuania, and Czech Republic** for scholarships  
+- 💻 Learning **Python, C++, DSA, and AI**  
+- 🎯 Working on my **Final Year Project (FYP)** in **Web & AI**  
+- 📚 Studying **AI, Visual Learning, and DSA** this semester  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Focus  
+- **Mastering DSA** 📊  
+- **Building projects** for experience 💡  
+- **Improving consistency** in learning & content creation 🎥  
+- **Planning for scholarships & career abroad** 🌎  
+
+### 💻 My Tech Stack  
+- **Languages:** Python, C++  
+- **Tech Interests:** AI, Web Development, Software Engineering  
+- **Tools:** Git, VS Code  
+
+### 📫 Connect with Me  
+- 🔗 **GitHub:** [@jalal712](https://github.com/jalal712)  
+- ✉️ Let's connect for tech discussions & collaborations!
