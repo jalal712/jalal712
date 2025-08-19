@@ -3,11 +3,10 @@
 Welcome to my GitHub profile! I'm a **Computer Science student** in my 6th semester, passionate about **AI, Web Development, and DSA**. My goal is to **go abroad** for further studies and achieve a **7-figure salary** in tech.  
 
 ### 🚀 About Me  
-- 🎓 **BSCS Student** (Current CGPA: **3.4**, aiming for **3.5-3.8**)  
-- 🌍 Exploring **Germany, Portugal, Lithuania, and Czech Republic** for scholarships  
+- 🎓 **BSCS Student** (Current CGPA: 3.2)  
 - 💻 Learning **Python, C++, DSA, and AI**  
 - 🎯 Working on my **Final Year Project (FYP)** in **Web & AI**  
-- 📚 Studying **AI, Visual Learning, and DSA** this semester  
+ 
 
 ### 📌 Current Focus  
 - **Mastering DSA** 📊  
