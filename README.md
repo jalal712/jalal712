@@ -1,6 +1,6 @@
 # Hi there, I'm Jalal! 👋  
 
-Welcome to my GitHub profile! I'm a **Computer Science student** in my 6th semester, passionate about **AI, Web Development, and DSA**. My goal is to **go abroad** for further studies and achieve a **7-figure salary** in tech.  
+Welcome to my GitHub profile! I'm a **Computer Science student** in my 6th semester, passionate about **AI, Web Development, and DSA**. 
 
 ### 🚀 About Me  
 - 🎓 **BSCS Student** (Current CGPA: 3.2)  
